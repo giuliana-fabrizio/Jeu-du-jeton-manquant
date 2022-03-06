@@ -1,10 +1,5 @@
 import java.util.*;
 
-/**
- * Created by zulupero on 24/09/2021.
- *
- * Compléter par Maxence Frechin S1C1 et Giuliana Godail--Fabrizio
- */
 public class Jeton {
     static final Scanner input = new Scanner(System.in);
     static final Random rand = new Random();
