@@ -243,7 +243,6 @@ public class Jeton {
     /**
      * Renvoie le prochain coup à jouer pour les rouges
      * Algo naïf = la première case dispo
-     * 
      * @return id de la case
      */
     public static int iaRouge(int quelle_IA) {
